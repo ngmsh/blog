@@ -1,0 +1,19 @@
+baseURL: "https://blog.ngmsh.github.io"
+title: "ニガムシカミツブス"
+
+langageCode: "ja-jp"
+defaultContentLanguage: "ja"
+
+canonifyurls: true
+publishDir: "docs"
+enableEmoji: true
+enableInlineShortcodes: true
+hasCJKLanguage: true
+
+indexes:
+  tag: "tags"
+  topic: "topics"
+
+social:
+  twitter: "taro_on_stage"
+
