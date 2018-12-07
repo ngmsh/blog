@@ -4,7 +4,7 @@ title: "ニガムシカミツブス"
 langageCode: "ja-jp"
 defaultContentLanguage: "ja"
 
-theme: hugo-now-ui
+theme: hugo-now-ui-custom
 
 canonifyurls: true
 publishDir: "docs"
