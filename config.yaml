@@ -4,6 +4,8 @@ title: "ニガムシカミツブス"
 langageCode: "ja-jp"
 defaultContentLanguage: "ja"
 
+theme: hugo-now-ui
+
 canonifyurls: true
 publishDir: "docs"
 enableEmoji: true
