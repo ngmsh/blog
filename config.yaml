@@ -1,10 +1,9 @@
 baseURL: "https://blog.ngmsh.github.io"
 title: "ニガムシカミツブス"
+lang: "ja"
 
 langageCode: "ja-jp"
 defaultContentLanguage: "ja"
-
-theme: hugo-now-ui-custom
 
 canonifyurls: true
 publishDir: "docs"
@@ -12,10 +11,41 @@ enableEmoji: true
 enableInlineShortcodes: true
 hasCJKLanguage: true
 
+theme: hugo-now-ui-custom
+
+params:
+    custom_css:
+      - "css/style.css"
+      - "css/font.css"
+
 indexes:
   tag: "tags"
   topic: "topics"
 
-social:
-  twitter: "taro_on_stage"
-
+menu:
+  main:
+    - name: "Home"
+      url: "/"
+      pre: "<i class='now-ui-icons design_app'></i>"
+      weight: 1
+    - name: "About"
+      url: "/about/"
+      pre: "<i class='now-ui-icons design_app'></i>"
+      weight: 2
+    - name: "Next"
+      url: "/next/"
+      pre: "<i class='now-ui-icons design_app'></i>"
+      weight: 3
+    - name: "Reserve"
+      url: "/rsv/"
+      pre: "<i class='now-ui-icons design_app'></i>"
+      weight: 4
+  footer:
+    - identifier: "twitter"
+      pre: "<i class='fa fa-twitter'></i>"
+      url: "https://twitter.com/taro_on_stage"
+      weight: 1
+    - identifier: "github"
+      pre: "<i class='fa fa-github'></i>"
+      url: "https://github.com/ngmsh"
+      weight: 2
