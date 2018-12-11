@@ -10,6 +10,7 @@ publishDir: "docs"
 enableEmoji: true
 enableInlineShortcodes: true
 hasCJKLanguage: true
+relativeURLs: true
 
 theme: hugo-now-ui-custom
 
