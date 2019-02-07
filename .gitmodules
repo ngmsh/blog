@@ -1,3 +1,4 @@
 [submodule "themes/hugo-now-ui-custom"]
 	path = themes/hugo-now-ui-custom
 	url = https://github.com/ngmsh/hugo-now-ui
+	branch = master
