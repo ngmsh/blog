@@ -13,10 +13,11 @@ draft: false
 
 #### 【公演日時】
 
-* 2019-03-24 14:00〜 / 18:00〜
-
-※開場は開演の15分前
-※全席自由席
+* 2019-03-24 [14:00〜](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=XzY4cGo4ZDlpNmNya2NiYTE3MHJrY2I5azZvbzRhYjlvODUxNDJiOWs2a28zMmMyMzg4c2pnZ2k1Nm8gbHVtZ3Jkamp1cTZlcjA4Zjh1c2hha3V2bGtAZw&tmsrc=lumgrdjjuq6er08f8ushakuvlk@group.calendar.google.com&catt=false&pprop=HowCreated:DUPLICATE&hl=ja&scp=ONE) / [18:00〜](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=XzZsMWo4Z2ExOG9zajZiYTE2dDEzMGI5azYxMjNhYmEyODUxMzZiYTU2OHFqNmRwbjZkMTM4aDFrOGsgbHVtZ3Jkamp1cTZlcjA4Zjh1c2hha3V2bGtAZw&tmsrc=lumgrdjjuq6er08f8ushakuvlk@group.calendar.google.com&catt=false&pprop=HowCreated:DUPLICATE&hl=ja&scp=ONE)
+    * [<i class="fa fa-calendar-check-o" aria-hidden="true">GoogleCalendar</i>](https://calendar.google.com/calendar/embed?src=lumgrdjjuq6er08f8ushakuvlk%40group.calendar.google.com&ctz=Asia%2FTokyo&dates=2019-03-01%F22019-03-31)
+    * [<i class="fa fa-calendar-check-o" aria-hidden="true">iCal</i>](https://calendar.google.com/calendar/ical/lumgrdjjuq6er08f8ushakuvlk%40group.calendar.google.com/public/basic.ics)
+* ※開場は開演の15分前
+* ※全席自由席
 
 #### 【芝熊よりごあいさつ】
 
