@@ -6,7 +6,7 @@ draft: false
 
 ## これから
 
-### 芝熊【shiba-kuma】『うかうかと終焉2019』<br><span style="font-size:.8em">――「吉田寮食堂春のオールスター感謝祭」参加公演</span>
+<h3 id="ukauka2019"><br><br>芝熊【shiba-kuma】『うかうかと終焉2019』<br><span style="font-size:.8em">――「吉田寮食堂春のオールスター感謝祭」参加公演</span></h3>
 
 * 脚本: 出口明・大田雄史
 * 演出: タロー（ニガムシカミツブス）

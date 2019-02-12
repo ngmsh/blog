@@ -4,6 +4,7 @@ date: 2018-12-12T02:55:02+09:00
 draft: false
 ---
 
-### キャンディプロジェクト第八回舞台公演 <br>『戦争と豚―変奏 白痴×悪童日記―』
+現在利用可能な予約フォームはありません。
 
-* https://www.quartet-online.net/ticket/candy8?m=0kbjiec (タロー扱い)
+[芝熊【shiba-kuma】『うかうかと終焉2019』 <span style="font-size:.8em">――「吉田寮食堂春のオールスター感謝祭」参加公演</span>](/next#ukauka2019)につきましては直接お問い合わせください。
+窓口は[タロー](https://twitter.com/taro_on_stage)か[芝熊](https://twitter.com/shibakuma1st)です。
