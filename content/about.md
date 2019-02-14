@@ -2,6 +2,7 @@
 title: "About"
 date: 2018-12-12T02:54:54+09:00
 draft: false
+weight: 1
 ---
 
 ## WHO?
