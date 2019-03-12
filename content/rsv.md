@@ -5,7 +5,10 @@ draft: false
 weight: 3
 ---
 
-現在利用可能な予約フォームはありません。
+## [芝熊【shiba-kuma】『うかうかと終焉2019](/next#ukauka2019)
 
-[芝熊【shiba-kuma】『うかうかと終焉2019』 <span style="font-size:.8em">――「吉田寮食堂春のオールスター感謝祭」参加公演</span>](/next#ukauka2019)につきましては直接お問い合わせください。
-窓口は[タロー](https://twitter.com/taro_on_stage)か[芝熊](https://twitter.com/shibakuma1st)です。
+* 予約フォーム（タロー扱い）https://www.quartet-online.net/ticket/ukauka2019?m=0lhehci
+* お問い合わせ窓口は[タロー](https://twitter.com/taro_on_stage)か[芝熊](https://twitter.com/shibakuma1st)です。
+* 日程
+    * 2019-04-06 14:00 ~ / 19:00~
+    * 2019-04-07 14:00 ~ / 19:00~
