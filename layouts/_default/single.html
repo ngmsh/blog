@@ -1,0 +1,25 @@
+{{ define "title" }}
+<div class="container">
+  <div class="content-center">
+    <h1 class="title">{{ .Title }}</h1>
+    <div class="text-center">
+      {{with .Params.description }} {{ . | safeHTML }} {{ end }}
+    </div>
+  </div>
+</div>
+{{ end }}
+
+{{ define "body" }}
+<div class="row">
+  <div class="col-md-8 ml-auto mr-auto text-left">
+  {{ .Content }}
+  <h4>Tags</h4>
+  <ul>
+    {{ range .Params.tags }}
+      <li><a href="/tags/{{ . }}">{{ . }}</a></li>
+    {{ end }}
+  </ul>
+  </div>
+  }
+</div>
+{{ end }}
