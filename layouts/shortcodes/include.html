@@ -1,0 +1,7 @@
+{{ $path := .Get "path" }}
+<div class="border rounded p-2 pb-4">
+    {{ with .Site.GetPage $path }}
+        {{ .Content }}
+    {{ end }}
+    <div class="pull-right"><a href="{{ ref . $path }}">{{ ref . $path }}</a></div>
+</div>
