@@ -7,7 +7,7 @@ weight: 2
 
 ## これから
 
-ちょっとまってね！！
+{{< include path="/post/atami2019.md">}}
 
 ---
 
