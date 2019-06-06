@@ -1,0 +1,20 @@
+{{ $id := .Get "id" }}
+<div class="w-50 mb-5 p-2 float-left">
+    <img src="{{ .Get "src" }}" id="thumbnail-{{ .Get "id" }}" class="image-fluid img-raised shadow-lg {{ .Get "class" }}" alt="{{ .Get "alt" }}" data-toggle="modal" data-target="#{{ .Get "id" }}">
+</div>
+
+<div id="{{ .Get "id" }}" class="modal fade mx-auto" role="dialog" aria-hidden="true" style="width: 90vw">
+    <div class="modal-dialog modal-dialog-centered modal-lg">
+        <div class="modal-content">
+            <div class="modal-header float-right p-0">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="p-3">
+                <img src="{{ .Get "src" }}" class="img-fluid">
+            </div>
+        </div>
+    </div>
+</div>
+
