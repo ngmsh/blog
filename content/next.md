@@ -7,11 +7,13 @@ weight: 2
 
 ## これから
 
-{{< include path="/post/atami2019.md">}}
+しばらくまってね！
 
 ---
 
 ## これまで
+
+{{< include path="/post/atami2019.md">}}
 
 {{< include path="/post/ukauka2019.md" >}}
 
