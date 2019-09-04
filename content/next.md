@@ -1,13 +1,13 @@
 ---
 title: 今後の予定
-date: 2018-12-12T02:55:05+09:00
+date: 2019-09-04T23:00:00+09:00
 draft: false
 weight: 2
 ---
 
 ## これから
 
-しばらくまってね！
+{{< include path="/post/fallenangel2019.md">}}
 
 ---
 

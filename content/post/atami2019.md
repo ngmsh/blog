@@ -10,8 +10,8 @@ tags: [キャンディプロジェクト, 熱海殺人事件2019]
 今回は演出参加！！！ 4バージョンのうち、 <mark><span class="text-danger font-weight-bold lead">『ロンゲストスプリング』チームのメインの演出を手がけつつ</span></mark> 、3人の演出が全チームそれぞれアレコレ口出しつつ進めております。
 
 
-{{< image-popup id="atami2019-face" src="/img/canproatami2019/atami2019_face.jpg" alt="『熱海殺人事件2019』表" class="mr-1" >}}
-{{< image-popup id="atami2019-back" src="/img/canproatami2019/atami2019_back.png" alt="『熱海殺人事件2019』裏">}}
+{{< image-popups id="atami2019-face" src="/img/canproatami2019/atami2019_face.jpg" alt="『熱海殺人事件2019』表" class="mr-1" >}}
+{{< image-popups id="atami2019-back" src="/img/canproatami2019/atami2019_back.png" alt="『熱海殺人事件2019』裏">}}
 
 * 作：つかこうへい
 * 総演出：キャンディ江口

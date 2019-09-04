@@ -7,6 +7,10 @@ weight: 4
 
 ## これまでの活動
 
+{{< include path="/post/atami2019.md">}}
+
+---
+
 {{< include path="/post/ukauka2019.md" >}}
 
 ---

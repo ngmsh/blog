@@ -1,5 +1,5 @@
 {{ $id := .Get "id" }}
-<div class="mb-5 p-2 d-block mx-auto">
+<div class="w-50 mb-5 p-2 float-left">
     <img src="{{ .Get "src" }}" id="thumbnail-{{ .Get "id" }}" class="image-fluid img-raised shadow-lg {{ .Get "class" }}" alt="{{ .Get "alt" }}" data-toggle="modal" data-target="#{{ .Get "id" }}">
 </div>
 
