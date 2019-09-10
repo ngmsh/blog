@@ -12,6 +12,10 @@ tags: [劇団ジュエリー・ビーンズ]
 * 作：紅嶋麗（あかしまれい）
 * 演出：田岡紀夫
 
+#### 【予約フォーム】
+
+* https://docs.google.com/forms/d/1k18wILWNwhOiWdoHvUTrMutqdgKBQXACOby8WArwGvQ （タロー扱い）
+
 #### 【日時】
 
 * 2019年9月14日(A)
