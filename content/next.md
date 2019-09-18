@@ -7,11 +7,13 @@ weight: 2
 
 ## これから
 
-{{< include path="/post/fallenangel2019.md">}}
+* 決まり次第お知らせします！
 
 ---
 
 ## これまで
+
+{{< include path="/post/fallenangel2019.md">}}
 
 {{< include path="/post/atami2019.md">}}
 
