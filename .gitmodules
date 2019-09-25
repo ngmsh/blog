@@ -2,3 +2,12 @@
 	path = themes/hugo-now-ui-custom
 	url = https://github.com/ngmsh/hugo-now-ui
 	branch = master
+[submodule "themes/meghna-hugo"]
+	path = themes/meghna-hugo
+	url = https://github.com/themefisher/meghna-hugo
+[submodule "themes/airspace-hugo"]
+	path = themes/airspace-hugo
+	url = https://github.com/themefisher/airspace-hugo
+[submodule "themes/infinity-hugo"]
+	path = themes/infinity-hugo
+	url = https://github.com/themefisher/infinity-hugo

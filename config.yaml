@@ -13,6 +13,9 @@ hasCJKLanguage: true
 relativeURLs: true
 
 theme: hugo-now-ui-custom
+# theme: airspace-hugo
+# theme: infinity-hugo
+# theme: meghna-hugo
 
 params:
   custom_css:
