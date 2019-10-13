@@ -11,3 +11,6 @@
 [submodule "themes/infinity-hugo"]
 	path = themes/infinity-hugo
 	url = https://github.com/themefisher/infinity-hugo
+[submodule "static/js/reveal.js"]
+	path = static/modules/reveal.js
+	url = https://github.com/hakimel/reveal.js
