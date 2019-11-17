@@ -7,8 +7,8 @@ tags: [ws]
 
 # <small>ニガムシカミツブス式</small><br>「会話を出来るようになろう(超超初級編)」
 
-{{< image-popups id="ws_1-1" src="/img/ws/1-1.png" alt="『ニガムシカミツブス式超超初級WS』表" class="mr-1" >}}
-{{< image-popups id="ws_1-2" src="/img/ws/1-2.png" alt="『ニガムシカミツブス式超超初級WS』裏">}}
+{{< image-popups id="ws_1-1" src="/img/ws/1/1-1.png" alt="『ニガムシカミツブス式超超初級WS』表" class="mr-1" >}}
+{{< image-popups id="ws_1-2" src="/img/ws/1/1-2.png" alt="『ニガムシカミツブス式超超初級WS』裏">}}
 <div class="clearfix"></div>
 
 ## 誰のためのものですか？

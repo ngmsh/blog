@@ -21,6 +21,8 @@ params:
   custom_css:
     - "css/style.css"
     - "css/font.css"
+  custom_js:
+    - "../modules/reveal.js/js/reveal.js"
 
 indexes:
   tag: "tags"

@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="{{ .Site.Language.Lang }}">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title></title>
+    <link rel="stylesheet" href="/modules/reveal.js/css/reset.css">
+    <link rel="stylesheet" href="/modules/reveal.js/css/reveal.css">
+    <link rel="stylesheet" href="/modules/reveal.js/css/theme/night.css">
+</head>
+<body>
+    <section class="reveal">
+        <div class="slides">
+            <section data-markdown data-separator="^\n---\n$" data-separator-vertical="^\n>>>\n$">
+                <textarea data-template>
+{{ readFile .Params.src }}
+                </textarea>
+
+            </section>
+        </div>
+    </section>
+
+    <script src="/modules/reveal.js/js/reveal.js"></script>
+    <script src="/modules/reveal.js/plugin/markdown/marked.js"></script>
+    <script src="/modules/reveal.js/plugin/markdown/markdown.js"></script>
+    <script>
+        Reveal.initialize();
+    </script>
+</body>
+</html>
+
