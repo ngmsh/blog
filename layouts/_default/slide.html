@@ -7,6 +7,7 @@
     <link rel="stylesheet" href="/modules/reveal.js/css/reset.css">
     <link rel="stylesheet" href="/modules/reveal.js/css/reveal.css">
     <link rel="stylesheet" href="/modules/reveal.js/css/theme/night.css">
+    {{partial "ga" . }}
 </head>
 <body>
     <section class="reveal">
@@ -26,6 +27,7 @@
     <script>
         Reveal.initialize();
     </script>
+    {{ partial "twitter" . }}
 </body>
 </html>
 
