@@ -7,15 +7,15 @@ weight: 2
 
 ## これから
 
-* 決まり次第お知らせします！
+{{< include path="/post/mahocha.md" >}}
 
 ---
 
 ## これまで
 
-{{< include path="/post/fallenangel2019.md">}}
+{{< include path="/post/fallenangel2019.md" >}}
 
-{{< include path="/post/atami2019.md">}}
+{{< include path="/post/atami2019.md" >}}
 
 {{< include path="/post/ukauka2019.md" >}}
 
