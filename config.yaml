@@ -12,6 +12,11 @@ enableInlineShortcodes: true
 hasCJKLanguage: true
 relativeURLs: true
 
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
 theme: hugo-now-ui-custom
 # theme: airspace-hugo
 # theme: infinity-hugo
