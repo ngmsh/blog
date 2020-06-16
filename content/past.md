@@ -7,6 +7,14 @@ weight: 4
 
 ## これまでの活動
 
+{{< include path="/post/mahocha.md" >}}
+
+---
+
+{{< include path="/post/fallenangel2019.md" >}}
+
+---
+
 {{< include path="/post/atami2019.md">}}
 
 ---

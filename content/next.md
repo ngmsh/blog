@@ -7,11 +7,13 @@ weight: 2
 
 ## これから
 
-{{< include path="/post/mahocha.md" >}}
+
 
 ---
 
 ## これまで
+
+{{< include path="/post/mahocha.md" >}}
 
 {{< include path="/post/fallenangel2019.md" >}}
 
