@@ -7,7 +7,7 @@ weight: 2
 
 ## これから
 
-
+{{< include path="/post/dogra-magra-in-wonderland.md" >}}
 
 ---
 
