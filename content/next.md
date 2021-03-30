@@ -7,11 +7,13 @@ weight: 2
 
 ## これから
 
-{{< include path="/post/dogra-magra-in-wonderland.md" >}}
+{{< include path="/post/kogarashi-no-tsuki.md" >}}
 
 ---
 
 ## これまで
+
+{{< include path="/post/dogra-magra-in-wonderland.md" >}}
 
 {{< include path="/post/mahocha.md" >}}
 
