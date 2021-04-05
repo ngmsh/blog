@@ -10,18 +10,18 @@ tags: [team.ごせんぷ,出演]
     『木枯らしの月』
 </h3>
 
-{{< image-popups id="atami2019-face" src="/img/kogarashi-no-tsuki/face.png" alt="『木枯らしの月』表" class="mr-1" >}}
-{{< image-popups id="atami2019-back" src="/img/kogarashi-no-tsuki/back.jpg" alt="『木枯らしの月』裏">}}
+{{< image-popups id="atami2019-face" src="/img/kogarashi-no-tsuki/face.JPG" alt="『木枯らしの月』表" class="mr-1" >}}
+{{< image-popups id="atami2019-back" src="/img/kogarashi-no-tsuki/back.JPG" alt="『木枯らしの月』裏">}}
 
 ### 作・演出
 * 有川義孝(ヘアピン倶楽部)
 
-###【あらすじ】
+### 【あらすじ】
 
 とある戦乱の世の時代。<br>ある国の話。<br>その国では国を治める城主が数年前に無くなって以降、後継者争いによるいざこざで突発的な争いが頻発しておりそれに巻き込まれた民衆は疲弊していた。<br>争いにより家族を失った者たちが盗賊集団をなし、日々を暮らしている。<br>その中でも対立する２派、谷と崖に住む風助と三日月はお互いに魅かれあいながらも自らの意思とは関係なく後継者争いに巻き込まれていく……。<br>
 
 
-###【日時】
+### 【日時】
 
 * 3月31日(水)～4月4日(日)
 
@@ -51,7 +51,7 @@ tags: [team.ごせんぷ,出演]
         3. 左手に豊島七丁目児童遊園が見えたら、民家を正面に見て右に曲がります。
 　
 
-###【チケット】
+### 【チケット】
 
 * 前売、当日共　      ¥3,600
 * みんなで割　おひとり ¥3,400
